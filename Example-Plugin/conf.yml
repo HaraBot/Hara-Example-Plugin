@@ -2,26 +2,21 @@
 # Required keys. Without them, your plugin will not be enabled.
 #
 
-# The name of your plugin. 
+# The name of your plugin.
 name: "Hara-Example-Plugin"
 
 # If you want to link your github, use github/YOURNAME and the plugin embed will link to your account.
-# Otherwise, any name will be accepted. 
+# Otherwise, any name will be accepted.
 author: "github/jammehcow"
 
 # The version standard that I prefer is main.min.min. You're welcome to use other formats, but a standard make everything flow.
-version: "1.0.0"
+version: "1.1.0"
 
 description: "An example plugin for Hara"
-
-
 
 #
 # Optional keys
 #
 
-
-
 # A link to the project's GitHub or other informational site (usually containing the source).
 link: "https://github.com/jammehcow/Hara-Example-Plugin/"
-
