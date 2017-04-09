@@ -3,7 +3,7 @@
 
 	API Mapping:
 
-	bot.prefix 
+	bot.prefix
 	bot.getClient()
 	bot.requestBuffer(function())
 	plugin.getDescription().*
@@ -24,7 +24,7 @@ plugin.pluginEnable(function()
 	logger.info(plugin.getDescription():getName() .. " has been enabled!")
 end)
 
-plguin.pluginDisable(function()
+plugin.pluginDisable(function()
 	logger.info(plugin.getDescription():getName() .. " has been disabled! See you later.")
 end)
 
